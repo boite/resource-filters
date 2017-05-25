@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource type="hub/dossier">
+  <sections>
+    <section type="client" id="1" createStamp="2017-04-28">
+      <values>
+        <value concept="peri22-dataelement-10030" value="123548999"/>
+        <value concept="peri22-dataelement-10040" value="1985-03-17"/>
+        <value concept="peri22-dataelement-10042" value="Annabel"/>
+        <value concept="peri22-dataelement-82361" value="Jackson"/>
+        <value concept="peri22-dataelement-10301" value="Exampleroad"/>
+        <value concept="peri22-dataelement-10302" value="1"/>
+        <value concept="peri22-dataelement-10304" value="9999 ZZ"/>
+        <value concept="peri22-dataelement-10305" value="Demoville"/>
+      </values>
+    </section>
+    <section type="intake" id="2" createStamp="2017-04-28" effectStamp="2017-03-02">
+      <values>
+        <value concept="peri22-dataelement-20010" value="1"/>
+        <value concept="peri22-dataelement-20153" value="1"/>
+        <value concept="peri22-dataelement-20030" value="2017-03-02"/>
+      </values>
+    </section>
+    <section type="consult" id="3" createStamp="2017-04-28" effectStamp="2017-03-02">
+      <values>
+        <value concept="peri22-dataelement-80738" value="31w3d"/>
+      </values>
+    </section>
+    <section type="echo" id="4" createStamp="2017-04-28" effectStamp="2017-03-02">
+      <values>
+        <value concept="peri22-dataelement-60060" value="253"/>
+        <value concept="peri22-dataelement-60100" value="222"/>
+        <value concept="peri22-dataelement-60080" value="52"/>
+        <value concept="peri22-dataelement-82304" value="1037 g"/>
+        <value concept="peri22-dataelement-60061" value="22.7"/>
+        <value concept="peri22-dataelement-60101" value="25"/>
+        <value concept="peri22-dataelement-60081" value="45.2"/>
+      </values>
+    </section>
+  </sections>
+</resource>

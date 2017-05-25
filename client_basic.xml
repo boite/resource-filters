@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<filter>
+  <name>Client basic details</name>
+  <description>Includes BSN, DOB, name and address</description>
+  <allow section_type="client" concept="peri22-dataelement-10030" comment="bsn" />
+  <allow section_type="client" concept="peri22-dataelement-10040" comment="birthdate" />
+  <allow section_type="client" concept="peri22-dataelement-10042" comment="firstnames" />
+  <allow section_type="client" concept="peri22-dataelement-82361" comment="lastnames" />
+  <allow section_type="client" concept="peri22-dataelement-10301" comment="street" />
+  <allow section_type="client" concept="peri22-dataelement-10302" comment="house number" />
+  <allow section_type="client" concept="peri22-dataelement-10304" comment="postalcode" />
+  <allow section_type="client" concept="peri22-dataelement-10305" comment="city" />
+  <allow section_type="client" concept="peri22-dataelement-10307" comment="country" />
+</filter>
